@@ -7,19 +7,5 @@
     "verified": "11"
   },
   "manifest": "https://github.com/Callirhoe/shared-dotmm/raw/main/module.json",
-  "download": "https://github.com/Callirhoe/shared-dotmm/raw/main/packs.zip",
-  "packs": [
-    {
-      "name": "scenes",
-      "label": "Scenes",
-      "path": "packs/scenes",
-      "type": "Scene",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e",
-      "flags": {}
-    }
-  ]
+  "download": "https://github.com/Callirhoe/shared-dotmm/raw/main/packs.zip"
 }
